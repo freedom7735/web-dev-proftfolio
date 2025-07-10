@@ -151,3 +151,8 @@ main section{
     border-radius: 5px;
 }
 
+/* resume-container */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
